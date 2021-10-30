@@ -25,8 +25,8 @@ class rainbot(commands.Bot):
 
         super().__init__(command_prefix=None, max_messages=10000, intents=intents, allowed_mentions=discord.AllowedMentions.none())
 
-        self.accept = ':ok_hand:'
-        self.deny = '<:questionable_star:899142927220097105>'
+        self.accept = '<:green_tick:903958211684630529>'
+        self.deny = '<:red_tick:903958238209392661>'
         self.dev_mode = os.name == 'nt'
         self.session: Optional[aiohttp.ClientSession] = None
 
