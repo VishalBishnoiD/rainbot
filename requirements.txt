@@ -1,11 +1,11 @@
 discord.py~=1.6.0
 motor~=2.1.0
 dnspython~=1.16.0
-python-dotenv~=0.10.3
+pythondotenv~=0.10.3
 parsedatetime~=2.4
-python-dateutil~=2.8.0
-nudenet~=2.0.7
+pythondateutil~=2.8.0
+nudenet~=2.0.3
+tensorflow~=1.15.0
 imagehash~=4.1.0
 cachetools~=4.1.1
 emoji~=1.2.0
-tensorflow~=2.15.0
