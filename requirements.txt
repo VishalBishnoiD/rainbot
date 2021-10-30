@@ -7,3 +7,4 @@ tensorflow~=1.15.0
 imagehash~=4.1.0
 cachetools~=4.1.1
 emoji~=1.2.0
+git+https://github.com/theskumar/python-dotenv@master
