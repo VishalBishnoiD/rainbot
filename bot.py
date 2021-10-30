@@ -10,6 +10,7 @@ from typing import Any, Dict, List, Optional, Union
 import aiohttp
 import discord
 from discord.ext import commands
+from dotenv import load_dotenv
 
 from ext import errors
 from ext.database import DatabaseManager
